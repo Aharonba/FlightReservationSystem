@@ -63,17 +63,6 @@ A modular and object-oriented **flight management system** developed in Java. Th
     └── Context.java
 ```
 
----
-
-## 📌 Future Improvements
-
-- Integrate persistence with file or database storage  
-- Add authentication layer for user roles (Admin / Viewer)  
-- Build a basic GUI with JavaFX or Swing  
-- Extend to support round-trip or multi-leg flights
-
----
-
 ## 🧑‍💻 Author
 
 Aharon Bassous  
