@@ -65,12 +65,6 @@ A modular and object-oriented **flight management system** developed in Java. Th
 
 ---
 
-## 📷 Demo (Optional)
-
-> *(You can include screenshots or console examples here if you have any!)*
-
----
-
 ## 📌 Future Improvements
 
 - Integrate persistence with file or database storage  
